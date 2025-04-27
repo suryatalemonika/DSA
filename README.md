@@ -1,25 +1,17 @@
-# DSA
-This repository contains my solutions to various DSA problems, categorized by topics such as Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, and more. The goal is to strengthen problem-solving skills through consistent coding practice.
+# DSA - Tree Branch
+This repository contains my solutions to various Tree-related problems and implementations. Trees are hierarchical data structures widely used in applications like databases, file systems, and network routing. This branch focuses exclusively on Tree Data Structures and their operations.
 
-
-📌 Linked List - Data Structures & Algorithms
-This branch contains my Linked List implementations and problem solutions. Linked Lists are a fundamental data structure used in various applications like memory management, dynamic data storage, and graph implementations.
-
+📌 Tree - Data Structures & Algorithms
+This branch contains my Tree implementations and problem solutions. Trees are a fundamental data structure used in various algorithms and applications.
 
 🛠 Implementations Covered
-✅ Singly Linked List
-✅ Doubly Linked List
-✅ Circular Linked List
-✅ Fast & Slow Pointer Techniques
-
+✅ Counting the number of nodes in a binary tree (`MainClass.java`)  
+✅ Calculating the height of a binary tree (`Height.java`)  
 
 ## HOW TO RUN JAVA CODE 
 
-### First of all we need to compile our code, to compile we need to use the following command 
-``` 
-PS C:\Users\suryatalemonika\GitHub\DSA\questions> javac .\CreateLinkList.java 
-PS C:\Users\suryatalemonika\GitHub\DSA\questions> java CreateLinkList        
-2 -> 3 -> 4 -> 5 -> null
-PS C:\Users\suryatalemonika\GitHub\DSA\questions>
-
-```
+### Steps to Compile and Run
+1. Navigate to the directory containing the `.java` file.
+2. Compile the file using the following command:
+   ```bash
+   javac <filename>.java
